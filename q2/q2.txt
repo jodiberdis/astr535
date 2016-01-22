@@ -1,0 +1,7 @@
+1) There are 8 NMSU programs this quarter. Nancy's Jupiter atmosphere, our ASTR535 class visit, Nancy's transneptunian objects, Carlos' H-alpha galaxies, two visits for Dmitry's superthin galaxies, Kaike's LEGUE pipeline stellar parameter, and Karen's variable stars.
+
+2) These images show cloud cover above 2.5m and 3.5m. Brightness indicates warmth, or cloud features above the telescopes. Allows for the tracking of clouds across the sky throughout the night.
+
+3) Looked through instruments of telescopes. One question I have is how a spectrum taken from and echelle spectrograph looks different than a standard one, such as on SDSS. Also curious how the science taken from FlareCam and SurveyCam of the 0.5m differ? Benefits of using one or the other?
+
+4) Submitted housing request!
