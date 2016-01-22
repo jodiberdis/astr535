@@ -1,0 +1,9 @@
+1) Two objects from the SDSS survey have g=17 and g=19.5, respectively. Which is brighter, and by how much?
+Rearranging the equation: m1-m2 = -2.5log(F1/F2) to solve for the ratio between fluxes gives: F1/F2 = 10^((m1-m2)/-2.5). Plugging in m1=17 and m2=19.5 gives a F1/F2 value of 10. So m1=17 is brighter than m2=19.5, by a factor of 10.
+
+
+2) Star A has V=12, star B has V=14.5. Which is brighter, and by how much?
+Similar method as above. m1=12, m2=14.5. Plug into F1/F2 = 10^((m1-m2)/-2.5) gives F1/F2=10. So m1=12 is brighter than m2=19.5, by a factor of 10.
+
+
+3) A star has B-V=0. What does that imply about the slope of its spectrum? Is the slope independent of whether F$\scriptstyle \nu$ or F$\scriptstyle \lambda$ is being plotted? If not, how do they differ? 
