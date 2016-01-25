@@ -3,8 +3,14 @@ The solar constant is the Sun's average output radiation (or flux) at 1 AU, acro
 
 
  What is the surface brightness of the Sun as seen from Earth? 
+Surface Brightness = Flux(solar constant) / Solid Angle
+Solid Angle = pi*R^2 / d^2
+SB = Flux*d^2 / pi*R^2 = 20043.6 kW/m^2
 
 
 
-
-What would the solar constant and surface brightness of the Sun be as seen from Jupiter? 
+What would the solar constant and surface brightness of the Sun be as seen from Jupiter?
+Flux(Jupiter) = (d(Earth)^2 / d(Jupiter)^2) * Flux(Earth) = 1.085E-6 kW/m^2 would be the solar constant at Jupiter.
+Surface Brightness = Flux(solar constant) / Solid Angle
+Solid Angle = pi*R^2 / d^2
+SB = Flux*d^2 / pi*R^2 = 19956.2 kW/m^2
