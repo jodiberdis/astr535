@@ -1,0 +1,77 @@
+Exercises for Jan 29 class:
+1) Predict the RA at midnight for the first of every month.
+   If RA=12h at midnight of vernal equinox, then RA=0hr at midnight of autumnal equinox. 24 hours of RA over the course of 12 months, so each month changes RA by 2 hours, i.e., 30 minutes a week.
+Jan 1 - 06hh 30mm
+Feb 1 - 08hh 30mm
+Mar 1 - 10hh 30mm
+Apr 1 - 12hh 30mm
+May 1 - 14hh 30mm
+Jun 1 - 16hh 30mm
+Jul 1 - 18hh 30mm
+Aug 1 - 20hh 30mm
+Sep 1 - 22hh 30mm
+Oct 1 - 00hh 30mm
+Nov 1 - 02hh 30mm
+Dec 1 - 04hh 30mm
+
+2) What time is it now? What is the sidereal time? What coordinates would it be most optimal to observe right now?
+   10:00AM
+   Sidereal Time = UT. Local = UT - 7:00. So UT = 17:00
+   So coordinates of RA=17hh would be most optimal to observe right now
+
+
+3) When are the dark (no moon above horizon) first half nights in first quarter? 
+To avoid having the Moon up during first half of the night, looking for days when the Moon will rise sometime between midnight and 6am (will set between noon and 6pm, so won't be up during first half - 6pm to midnight).
+  Jan 1 - Jan 7; Jan 31 - Feb 6; Feb 29 - Mar 7; Mar 28 - end of quarter
+
+
+4) APO schedules the 3.5m in half-night blocks (A and B), split at midnight (or 1am during daylight savings). What are the best half-nights in the next year (month and half, e.g., Oct A, March B, etc.) to request to observe: 
+- Virgo cluster of galaxies (M87): RA=12h:30m:49s, Dec=12d:23m:28s
+     March B, April A/B, May A
+- Galactic Center: RA=17h:45m:40s, Dec=-29d:00m:28s
+     May A/B, Jun A/B, July A
+- Jupiter: 
+     Feb B, March A/B, April A/B
+
+5) Run skycalc (choose observatory A for APO, ? gives list of command help, look at r, d, y, and h commands). For the galactic center, what is the maximum amount of time it can be observed at an airmass of less than 2.5? How about the Virgo cluster? Why are these different? 
+
+- Galactic Center: RA=17h:45m:40s, Dec=-29d:00m:28s
+    In June, ~11hrs - entire night
+- Virgo Cluster: RA=12h:30m:49s, Dec=12d:23m:28s
+    In April, ~9hrs
+
+
+6) Run jskycalc. Play with all of the buttons! What planets will be visible spring 2016, and at what times of night? Note that you can load files with a list of coordinates, and you can make airmass observability charts for them. 
+
+- Feb: 
+    Jupiter: A/B
+    Mars: B
+    Saturn: B
+- March:
+    Jupiter: A/B
+    Mars: B
+    Saturn: B
+    Pluto: B
+- April:
+    Jupiter: A
+    Mars: A/B
+    Saturn: A/B
+    Pluto: B
+    Neptune: B
+- May:
+    Jupiter: A
+    Mars: A/B
+    Saturn: A/B
+    Pluto: B
+    Neptune: B
+
+
+7) Start to outline plan for an 3 half-night observing run during late March A halves, when we are taking our APO trip. Eventually, the plan should include a list of objects for each night with a tentative order of observation, taking into account how much time needs to be spent on each object. Our projects are still TBD, but will likely include observations with multiple instruments.
+
+- Determine the approximate range of RAs that we will be able to observe.
+- Given the NMSU 1st quarter proposals, which of them might we be able to make some observations for?
+- If you have other ideas for projects, start to tabulate them. (Sten/Diane stars for APOGEE calibration/neutron capture calibration, Triplespec RR Lyrae RV curves Drew Be stars)
+- Start to prepare a joint web page with the plan, including relevant information: coordinates of objects, finder images if necessary, links to tabulated spectra, instrument manuals, etc. etc.
+
+Trip is March 25-27. According to SkyCalendar, we can observe approximately RA=8h--12h
+We could observe Jupiter, the Trans-Neptunian Objects, and maybe some of the superthin galaxies.
