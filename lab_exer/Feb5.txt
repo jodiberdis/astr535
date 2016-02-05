@@ -1,0 +1,23 @@
+1) What portion of the image is being shown in the main dispay window?
+   Zoomed in version of the image is default shown. Pan window at upper right - can move the box that represents what is being shown in main window, or zoom in or out.
+   Vertical white line: bad column - saturated out.
+   Moved mouse around pixel by pixel by using arrows.
+
+2) Used Horizontal and Vertical Graphs to see how the brightness levels at each column / row changed.
+   Contrast is changing when you alter Scale from 100% to 50%. Super dark at 100% because the entire range of brightness levels are being displayed on one image. 50% is super bright, gives range of 50% of the pixels. 'zscale' option provides an aesthetically pleasing scale.
+   Tried different color maps. These associate a specific color with a specific brightness.
+   Tried different intensity maps. Alters the contrast of the image.
+
+3) Binary star system at the bottom right maybe? Smudge in the middle is a supernova. Teardrop shape slightly to the right looks like a galaxy maybe?
+   Background values are approximately 400. zscale histogram better shows what's going on in background.
+   Data values are 65535 in extremely bright objects in bottom right corner. A log display best shows the two objects resolved as points in bottom right corner. The stars are not as big as I thought! Just were super saturated.
+
+4) The i band seems signifcantly less resolved than the r band. The g band is difficult to discern from the r band.
+
+5) Looked at six different images, found how to best display them with zoom/scale/color to bring out features and not oversaturate.
+
+6) Gaia seems like a simplified version of DS9, has essentially same features: pan window/main window/etc., little more difficult to find equivalencies for zoom/scale/color, and not as many options as DS9.
+
+7) DIS: Looking at a slit spectra. Short curved lines are rotation of galaxy. Long straight lines are atmospheric contributions.
+   Echelle: Many, many orders of a spectrum from a small little piece of the sky, rather than a slit. Spreads out the spectrum into many "continuous" lines stacked on top of each other for better resolution of individual parts of the spectrum.
+   APOGEE: Each line is a spectrum of a star, where each fiber is "connected" to a star. So this fits image shows a spectrum for each ~300 fibers/stars, which start over at each new line.
