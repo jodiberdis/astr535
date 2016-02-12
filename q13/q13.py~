@@ -21,11 +21,7 @@
 # for an input pixel scale and input sky area/image size. Validate your routine using the results from 
 # the previous question. 
 
-
-
-# ***************************************************************************
-
-# **** Still working on this, but have spent MUCH longer than the estimated 1 hour. Need to fix the exposure time calculator portion, could be more accurate. Trying to incorporate background/aperture/pixel/readoutnoise into that section, similar to the second section.
+#
 
 
 
