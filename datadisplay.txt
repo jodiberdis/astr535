@@ -1,0 +1,23 @@
+Data Reduction commands for ipython:
+
+ds9 &
+ipython --matplotlib
+import numpy as np
+import matplotlib.pylot as plt
+import pyds9
+from pyds9 import DS9
+from astropy.io import fits
+from pyraf import iraf
+from pyraf.iraf import *
+imdir='path'
+im=fits.open(path+filename)
+d=pyds9.DS9()
+d.set_pyfits(im)
+d.set_np2arr(im[0].data)
+
+plt.plot(im.data[:,500])
+
+mean=im.data[400:600,400:600].mean() #Row numbers,column numbers
+sig=im.data[400:600,400:600].std()
+
+%run 'codename'
